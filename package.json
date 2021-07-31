@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_expressjs",
+  "version": "1.0.0",
+  "description": "#### Global variables \\__dirname - path to current directory. \\__filename - file name rquired - function to use modules (CommonJS) module  - info about current module (file) process - info about env where the program is being executed.",
+  "main": "02-globals.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {}
+}
